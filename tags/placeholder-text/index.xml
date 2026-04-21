@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Placeholder Text on Hugo Profile</title>
+    <link>https://hugo-profile.netlify.app/tags/placeholder-text/</link>
+    <description>Recent content in Placeholder Text on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Apr 2021 22:41:10 +0530</lastBuildDate>
+    <atom:link href="https://hugo-profile.netlify.app/tags/placeholder-text/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Displacement-Based Seismic Design for Offshore Bridge Foundations in Davao, Philippines </title>
+      <link>https://hugo-profile.netlify.app/blogs/my-post/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/blogs/my-post/</guid>
+      <description>&lt;p&gt;Displacement-based design in geotechnical earthquake engineering&#xA;for deep foundations directly links the effects of site-specific seismic hazards to&#xA;operational performance targets. Assessing seismically induced settlement is&#xA;critical for drilled shafts supporting an offshore bridge pier on seismically vul-&#xA;nerable marine deposits in Davao, Philippines. However, this assessment is&#xA;complicated by limited code guidance on the service limit state under extreme&#xA;seismic conditions. Furthermore, standard axial spring models are developed&#xA;from static pile tests which do not capture liquefaction or cyclic softening be-&#xA;havior. To incorporate these effects to the service limit state, this paper utilizes&#xA;the methodology of estimating pile capacities from target settlements by com-&#xA;bining the neutral-plane method with calibrated seismic effects to axial springs.&#xA;Nonlinear site response analysis is performed in DEEPSOIL to generate pro-&#xA;files of peak excess pore water pressure to determine effective stress and strain&#xA;reductions in shaft and tip resistances. Liquefaction-induced downdrag and re-&#xA;sulting pile-head vertical displacements are then computed in RSPile. Applying&#xA;this framework, site-specific axial pile capacity charts were generated for the&#xA;drilled shafts at the offshore bridge pier as a function of depth and target dis-&#xA;placements. These charts account for post-liquefaction reconsolidation and cy-&#xA;clic degradation and are benchmarked against code-prescribed strength limit&#xA;state capacities. The study demonstrates the applicability of calibrated axial&#xA;springs to offshore bridge foundations in the Philippine context and provides&#xA;practical guidance for designers evaluating pile capacities at sites vulnerable to&#xA;liquefaction-induced downdrag and cyclic softening.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://hugo-profile.netlify.app/blogs/placeholder-text/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/blogs/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;&#xA;&lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;&#xA;&lt;li&gt;Duce pollice&lt;/li&gt;&#xA;&lt;li&gt;Eris modo&lt;/li&gt;&#xA;&lt;li&gt;Spargitque ferrea quos palude&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
