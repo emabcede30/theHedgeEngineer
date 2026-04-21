@@ -153,6 +153,11 @@
     <lastmod>2021-04-03T23:29:21+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="en-us"
+                href="https://the-hedge-engineer.netlify.app/blogs/markdown-syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://the-hedge-engineer.netlify.app/fr/blogs/markdown-syntax/"
                 />
@@ -164,6 +169,11 @@
   </url><url>
     <loc>https://the-hedge-engineer.netlify.app/es/blogs/emoji-support/</loc>
     <lastmod>2021-04-03T22:53:58+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://the-hedge-engineer.netlify.app/blogs/emoji-support/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -221,6 +231,11 @@
   </url><url>
     <loc>https://the-hedge-engineer.netlify.app/es/blogs/rich-content/</loc>
     <lastmod>2021-04-03T19:53:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://the-hedge-engineer.netlify.app/blogs/rich-content/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"

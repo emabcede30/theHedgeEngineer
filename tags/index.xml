@@ -6,8 +6,57 @@
     <description>Recent content in Tags on Hugo Profile</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 23:29:21 +0530</lastBuildDate>
     <atom:link href="https://the-hedge-engineer.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example</title>
+      <link>https://the-hedge-engineer.netlify.app/tags/example/</link>
+      <pubDate>Mon, 20 Apr 2026 23:29:21 +0530</pubDate>
+      <guid>https://the-hedge-engineer.netlify.app/tags/example/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown Syntax</title>
+      <link>https://the-hedge-engineer.netlify.app/tags/markdown-syntax/</link>
+      <pubDate>Mon, 20 Apr 2026 23:29:21 +0530</pubDate>
+      <guid>https://the-hedge-engineer.netlify.app/tags/markdown-syntax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sample</title>
+      <link>https://the-hedge-engineer.netlify.app/tags/sample/</link>
+      <pubDate>Mon, 20 Apr 2026 23:29:21 +0530</pubDate>
+      <guid>https://the-hedge-engineer.netlify.app/tags/sample/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>https://the-hedge-engineer.netlify.app/tags/emoji-support/</link>
+      <pubDate>Mon, 20 Apr 2026 22:53:58 +0530</pubDate>
+      <guid>https://the-hedge-engineer.netlify.app/tags/emoji-support/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://the-hedge-engineer.netlify.app/tags/placeholder-text/</link>
+      <pubDate>Mon, 20 Apr 2026 22:41:10 +0530</pubDate>
+      <guid>https://the-hedge-engineer.netlify.app/tags/placeholder-text/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mathjax</title>
+      <link>https://the-hedge-engineer.netlify.app/tags/mathjax/</link>
+      <pubDate>Mon, 20 Apr 2026 19:53:33 +0530</pubDate>
+      <guid>https://the-hedge-engineer.netlify.app/tags/mathjax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rich Content</title>
+      <link>https://the-hedge-engineer.netlify.app/tags/rich-content/</link>
+      <pubDate>Mon, 20 Apr 2026 19:53:33 +0530</pubDate>
+      <guid>https://the-hedge-engineer.netlify.app/tags/rich-content/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ejemplo</title>
       <link>https://the-hedge-engineer.netlify.app/tags/ejemplo/</link>
@@ -16,31 +65,10 @@
       <description></description>
     </item>
     <item>
-      <title>Example</title>
-      <link>https://the-hedge-engineer.netlify.app/tags/example/</link>
-      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>https://the-hedge-engineer.netlify.app/tags/example/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Exemple</title>
       <link>https://the-hedge-engineer.netlify.app/tags/exemple/</link>
       <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
       <guid>https://the-hedge-engineer.netlify.app/tags/exemple/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Markdown Syntax</title>
-      <link>https://the-hedge-engineer.netlify.app/tags/markdown-syntax/</link>
-      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>https://the-hedge-engineer.netlify.app/tags/markdown-syntax/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mathjax</title>
-      <link>https://the-hedge-engineer.netlify.app/tags/mathjax/</link>
-      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>https://the-hedge-engineer.netlify.app/tags/mathjax/</guid>
       <description></description>
     </item>
     <item>
@@ -83,20 +111,6 @@
       <link>https://the-hedge-engineer.netlify.app/tags/support-des-emoji/</link>
       <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
       <guid>https://the-hedge-engineer.netlify.app/tags/support-des-emoji/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://the-hedge-engineer.netlify.app/tags/placeholder-text/</link>
-      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-      <guid>https://the-hedge-engineer.netlify.app/tags/placeholder-text/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sample</title>
-      <link>https://the-hedge-engineer.netlify.app/tags/sample/</link>
-      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-      <guid>https://the-hedge-engineer.netlify.app/tags/sample/</guid>
       <description></description>
     </item>
     <item>
